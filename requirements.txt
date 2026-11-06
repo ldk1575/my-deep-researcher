@@ -1,0 +1,5 @@
+langgraph>=1.2
+langchain-openai>=1.7
+python-dotenv
+streamlit>=1.40
+tiktoken
